@@ -1,17 +1,16 @@
-![ss](https://github.com/footcricket05/footcricket05/assets/93007427/ec0f57ed-60f4-4000-9160-b9e6015325fe)
+![LinkedIn Banner](https://github.com/footcricket05/footcricket05/assets/93007427/506208ea-bff3-437d-8a1f-4a80396e8f60)
 
+---
 
 ## 🙋‍♂️ About Me
 
-- 👀 I’m interested in IoT, ML, Networking...!
-- 🌱 I’m currently learning Cloud Computing...
-- 🤝 I’m looking to collaborate on IoT, ML projects...
+- 👀 I’m interested in IoT, AI/ML, Networking, Cloud & DevOps...!
+- 🌱 I’m currently learning 5G Tech and Cybersecurity...
+- 🤝 I’m looking to collaborate on IoT, AI/ML, Cloud & DevOps projects...
 - 📫 How to reach me - **shauryasrinet@gmail.com**
 - ⚡ Fun fact - I'm a weeb
 - ❔ Quote - Where's your will to be weird?
 
- 
-Looking for a team or an organization where I can learn and develop my skills...! 
 
 Aiming to leverage proven leadership, problem-solving, and technical skills to successfully be placed at your company. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
 
@@ -34,6 +33,8 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/Github-%23121011?style=plastic&logo=github&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Git-%23121011?style=plastic&logo=Git&logoColor=#F05032" height=20>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=plastic&logo=autocad&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-FF0000?style=plastic&logo=cisco&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
   <img src="https://img.shields.io/badge/Anaconda-green?style=plastic&logo=Anaconda&logoColor=white" height=20>
@@ -44,8 +45,9 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&color=000000" height=20>
   <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&color=111111" height=20>
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=R&logoColor=#276DC3" height=20>
-  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=#276DC3" height=20>
+<!--   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height=20> -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height=20>
@@ -53,6 +55,13 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
   <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/IFTTT-000000?style=plastic&logo=ifttt&logoColor=white" height=20>
 </p>
 
 <p align="center">
@@ -99,8 +108,10 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=footcricket05">
 </a>
+<a href="https://github.com/footcricket05">
+    <img src="https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square" alt="Hireable Badge">
+</a>
 <a href="https://github.com/footcricket05?tab=followers">
     <img src="https://img.shields.io/github/followers/footcricket05?label=Followers&style=social" alt="GitHub Badge">
 </a>
-
 
